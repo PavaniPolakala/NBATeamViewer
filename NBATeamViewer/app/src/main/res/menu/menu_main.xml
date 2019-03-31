@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nbateamviewer.MainActivity">
+    <item
+        android:id="@+id/action_name"
+        android:title="@string/action_sortbyname"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_wins"
+        android:title="@string/action_sortbywins"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_losses"
+        android:title="@string/action_sortbylosses"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="action_sortbyname">Sort by name</string>
+    <string name="action_sortbywins">Sort by Wins</string>
+    <string name="action_sortbylosses">Sort by Losses</string>
+    <string name="app_name">NBATeamViewer</string>
+    <string name="loading_teams">Loading Teams</string>
+</resources>
